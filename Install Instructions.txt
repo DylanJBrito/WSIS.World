@@ -1,0 +1,22 @@
+Install Instructions:
+
+Note: Due to the size of the game, a few assets were too large to push to github so they were removed to make the process easier.
+However, they can easily be re-downloaded once the inital file is open in unity. 
+
+Steps for re-downloading asset:
+
+1) Go to unity asset store in the unity desktop application.
+ Window > Unity Asset Store
+
+2) Search for "Windridge City"
+
+3) Click download and then Import
+
+4) A checklist will appear with all the individual assets to install with the folder
+
+5) VERY IMPORTANT STEP:
+   UNCHECK THE "SCENES" FOLDER (The folder with "Home_Scene" in it)
+   In other words install everything else besides the scenes folder.
+   This is because a Home_Scene already exists with instructions on how the game should handle the Windridge City asset and will be overriden if the new Home_Scene is installed.
+
+6) That's it!
